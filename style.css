@@ -1,0 +1,24 @@
+h1{
+    color: aliceblue;
+background-color: blue
+}
+*{
+    border: solid;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+.gamesection{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+.desc{
+    text-align: center;
+    background-color: bisque;
+}
